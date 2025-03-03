@@ -23,7 +23,7 @@ export function Projects() {
       description: "A responsive e-commerce platform built with React, Redux, and Stripe integration.",
       image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
       tags: ["React", "Redux", "Stripe"],
-      // github: "#",
+      github: "#",
       demo: "#"
     },
     {
@@ -32,7 +32,7 @@ export function Projects() {
       description: "A clean, modern portfolio website with smooth animations and responsive design.",
       image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
       tags: ["React", "Tailwind", "Framer Motion"],
-      // github: "#",
+      github: "#",
       demo: "#"
     },
     {
@@ -41,8 +41,8 @@ export function Projects() {
       description: "A productivity app with drag-and-drop functionality and user authentication.",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
       tags: ["Next.js", "Firebase", "TypeScript"],
-      // github: "#",
-      // demo: "#"
+      github: "#",
+      demo: "https://master.d2sbnr4t100cpp.amplifyapp.com/"
     },
     {
       id: 4,
@@ -50,9 +50,19 @@ export function Projects() {
       description: "A clasic Tic Tac Toe game which you can play with your friends",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
       tags: ["React.js", "JavaScript"],
-      // github: "#",
-      // demo: "#"
-    }
+      github: "#",
+      demo: "https://master.d18u6tgq5dr77q.amplifyapp.com/"
+    },
+    {
+      id: 5,
+      title: "DFS / BFS Algo  ",
+      description: "A DFS / BFS Visualizer ",
+      image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+      tags: ["React.js", "JavaScript"],
+      github: "#",
+      demo: "https://master.d18u6tgq5dr77q.amplifyapp.com/"
+    },
+
   ];
 
   const filters = ['All', 'React', 'Next.js', 'Tailwind', 'TypeScript'];
