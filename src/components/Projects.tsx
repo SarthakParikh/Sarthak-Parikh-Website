@@ -45,7 +45,7 @@ export function Projects() {
       demo: "https://master.d2sbnr4t100cpp.amplifyapp.com/"
     },
     {
-      id: 4,
+      id: 4, 
       title: "Tic Tac Toe Gaame application",
       description: "A clasic Tic Tac Toe game which you can play with your friends",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
@@ -65,7 +65,7 @@ export function Projects() {
 
   ];
 
-  const filters = ['All', 'React', 'Next.js', 'Tailwind', 'TypeScript'];
+  const filters = ['All', 'React', 'Next.js', 'Tailwind', 'TypeScript',"JavaScript"];
   
   const filteredProjects = activeFilter === 'All' 
     ? projects 
