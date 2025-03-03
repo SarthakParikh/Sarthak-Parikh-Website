@@ -51,7 +51,7 @@ export function Projects() {
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
       tags: ["React.js", "JavaScript"],
       github: "#",
-      demo: "https://master.d18u6tgq5dr77q.amplifyapp.com/"
+      demo: "https://main.dm28nto2w86b3.amplifyapp.com/"
     },
     {
       id: 5,
