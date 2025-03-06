@@ -24,7 +24,7 @@ export function Projects() {
       image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
       tags: ["React", "Redux", "Stripe"],
       github: "#",
-      demo: "#"
+      demo: "https://main.d1rjep4aguo1fh.amplifyapp.com/"
     },
     {
       id: 2,
