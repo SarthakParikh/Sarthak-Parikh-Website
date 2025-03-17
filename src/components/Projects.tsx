@@ -46,7 +46,7 @@ export function Projects() {
     },
     {
       id: 4, 
-      title: "Tic Tac Toe Gaame application",
+      title: "Tic Tac Toe Game application",
       description: "A clasic Tic Tac Toe game which you can play with your friends",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
       tags: ["React.js", "JavaScript"],
